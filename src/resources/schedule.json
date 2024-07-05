@@ -1,242 +1,62 @@
 [
   {
-    "week": 1,
-    "day1": "Quadruped Limb Raises",
-    "day2": "Leg Raises",
-    "day3": "High Plank Knee-to-Elbow",
-    "day4": "Quadruped Knee-to-Elbow L",
-    "day5": "Jog In Place"
-  },
-  {
-    "week": 1,
-    "day1": "SL Reach (Shin) L",
-    "day2": "Superman",
-    "day3": "Scissor Kicks",
-    "day4": "Overhead Squats",
-    "day5": "Wall Lateral Pull-Downs"
-  },
-  {
-    "week": 1,
-    "day1": "Bridge",
-    "day2": "Modified Low Side Plank L",
-    "day3": "Knee Up Downs",
-    "day4": "Quadruped Knee-to-Elbow R",
-    "day5": "SL Balance L"
-  },
-  {
-    "week": 1,
-    "day1": "SL Reach (Shin) R",
-    "day2": "Quick Feet",
-    "day3": "Table Top Crunches",
-    "day4": "Crossing Punches",
-    "day5": "Arm Circles Backward"
-  },
-  {
-    "week": 1,
-    "day1": "Low Plank",
-    "day2": "Modified Low Side Plank R",
-    "day3": "Inchworms",
-    "day4": "Mountain Climbers",
-    "day5": "SL Balance R"
-  },
-  {
-    "week": 2,
-    "day1": "Russian Twist Basic",
-    "day2": "Inchworms",
-    "day3": "Lunge & Twist L",
-    "day4": "Bridge",
-    "day5": "Cat-Cow"
-  },
-  {
-    "week": 2,
-    "day1": "Mountain Climbers",
-    "day2": "Quadruped Limb Raises",
-    "day3": "Modified Low Side Plank L",
-    "day4": "Inchworms",
-    "day5": "Child's Pose"
-  },
-  {
-    "week": 2,
-    "day1": "Superman",
-    "day2": "Low Plank Knee Drops",
-    "day3": "Lunge & Twist L",
-    "day4": "Jumping Jacks",
-    "day5": "Hip Abduction L"
-  },
-  {
-    "week": 2,
-    "day1": "Table Top Crunches",
-    "day2": "Bridge",
-    "day3": "Modified Low Side Plank R",
-    "day4": "Russian Twist Basic",
-    "day5": "Arm Circles Backward"
-  },
-  {
-    "week": 2,
-    "day1": "Plank-to-Down Dog",
-    "day2": "High Plank Knee Drops",
-    "day3": "Leg Raises",
-    "day4": "Scissor kicks",
-    "day5": "Hip Abduction R"
-  },
-  {
-    "week": 3,
-    "day1": "SL Reach (Shin) L",
-    "day2": "Low Plank",
-    "day3": "Overhead Squats",
-    "day4": "Quadruped Knee-to-Elbow L",
-    "day5": "Wall Lateral Pull-Downs"
-  },
-  {
-    "week": 3,
-    "day1": "Mountain Climbers",
-    "day2": "Russian Twist Basic",
-    "day3": "Low Side Plank L",
-    "day4": "Leg Raises",
-    "day5": "SL Balance L"
-  },
-  {
-    "week": 3,
-    "day1": "SL Reach (Shin) R",
-    "day2": "Beetle",
-    "day3": "Bridge",
-    "day4": "Quadruped Knee-to-Elbow R",
-    "day5": "Jog In Place"
-  },
-  {
-    "week": 3,
-    "day1": "Sit-ups",
-    "day2": "Superman",
-    "day3": "Low Side Plank R",
-    "day4": "Knee Up Downs",
-    "day5": "SL Balance R"
-  },
-  {
-    "week": 3,
-    "day1": "High Plank Knee Crosses",
-    "day2": "Scissor Kicks",
-    "day3": "Bicycle Crunches",
-    "day4": "Mountain Climbers",
-    "day5": "Bridge"
-  },
-  {
-    "week": 4,
-    "day1": "High Plank Knee-to-Elbow",
-    "day2": "Bicycle Crunches",
-    "day3": "Sit-ups",
-    "day4": "Knee Up Downs",
-    "day5": "Cat-Cow"
-  },
-  {
-    "week": 4,
-    "day1": "Lunge & Twist L",
-    "day2": "Modified Low Side Plank L",
-    "day3": "High Plank Knee Crosses",
-    "day4": "Clap Jacks",
-    "day5": "Wall Lateral Pull-Downs"
-  },
-  {
-    "week": 4,
-    "day1": "Bridge",
-    "day2": "Scissor Kicks",
-    "day3": "Low Plank Arm Reaches",
-    "day4": "Single-Leg V-ups",
-    "day5": "Hip Abduction L"
-  },
-  {
-    "week": 4,
-    "day1": "Lunge & Twist R",
-    "day2": "Modified Low Side Plank R",
-    "day3": "Inchworms",
-    "day4": "High Plank Leg Lifts",
-    "day5": "Star Toe Touches"
-  },
-  {
-    "week": 4,
-    "day1": "Knee Up Downs",
-    "day2": "Beetle",
-    "day3": "Knee Tuck Crunches",
-    "day4": "Quick Feet",
-    "day5": "Hip Abduction R"
-  },
-  {
-    "week": 5,
-    "day1": "Russian Twist Advanced",
-    "day2": "Mountain Climbers",
-    "day3": "Overhead Squats",
-    "day4": "Bridge",
-    "day5": "Cat-Cow"
-  },
-  {
-    "week": 5,
-    "day1": "Bicycle Crunches",
-    "day2": "Low Plank Twists",
-    "day3": "Low Side Plank L",
-    "day4": "Inchworms",
-    "day5": "Child's Pose"
-  },
-  {
-    "week": 5,
-    "day1": "Superman Pull",
-    "day2": "Crab Bridge",
-    "day3": "Bicycle Crunches",
-    "day4": "Rockstars",
-    "day5": "Quadruped Limb Raises"
-  },
-  {
-    "week": 5,
-    "day1": "Plank-to-Down Dog",
-    "day2": "High Plank Knee Crosses",
-    "day3": "Low Side Plank R",
-    "day4": "Russian Twist Advanced",
-    "day5": "Hip Openers"
-  },
-  {
-    "week": 5,
-    "day1": "High Plank Jacks",
-    "day2": "High Knees",
-    "day3": "Up Downs",
-    "day4": "Single-Leg V-ups",
-    "day5": "Plank-to-Down Dog"
-  },
-  {
-    "week": 6,
-    "day1": "Mountain Climbers",
-    "day2": "Low Plank Arm Reaches",
-    "day3": "Overhead Squats",
-    "day4": "Low Plank Twists",
-    "day5": "Wall Lateral Pull-Downs"
-  },
-  {
-    "week": 6,
-    "day1": "SL Reach (Foot) L",
-    "day2": "Russian Twist Advanced",
-    "day3": "Low Side Plank L",
-    "day4": "Quadruped Knee-to-Elbow L",
-    "day5": "SL Balance L"
-  },
-  {
-    "week": 6,
-    "day1": "Knee Tuck Crunches",
-    "day2": "Beetle",
-    "day3": "Bicycle Crunches",
-    "day4": "Reverse Crunches",
-    "day5": "Jog In Place"
-  },
-  {
-    "week": 6,
-    "day1": "SL Reach (Foot) R",
-    "day2": "Prone X",
-    "day3": "Low Side Plank R",
-    "day4": "Quadruped Knee-to-Elbow R",
-    "day5": "SL Balance R"
-  },
-  {
-    "week": 6,
-    "day1": "High Plank Leg Lifts",
-    "day2": "Single-Leg V-ups",
-    "day3": "Up Downs",
-    "day4": "Mountain Climbers",
-    "day5": "Star Toe Touches"
+    "name": "Week 1",
+    "days": [
+      {
+        "name": "Day 1",
+        "duration": 40,
+        "status": "completed",
+        "excercises": [
+          "Quadruped Limb Raises",
+          "SL Reach (Shin) L",
+          "Bridge",
+          "SL Reach (Shin) R",
+          "Low Plank"
+       ]
+      }, {
+        "name": "Day 2",
+        "duration": 45,
+        "status": "completed",
+        "excercises": [
+          "Leg Raises",
+          "Superman",
+          "Modified Low Side Plank L",
+          "Quick Feet",
+          "Modified Low Side Plank R"
+        ]
+      }, {
+        "name": "Day 3",
+        "duration": 40,
+        "status": "completed",
+        "excercises": [
+          "High Plank Knee-to-Elbow",
+          "Scissor Kicks",
+          "Knee Up Downs",
+          "Table Top Crunches",
+          "Inchworms"
+        ]
+      }, {
+        "name": "Day 4",
+        "duration": 30,
+        "status": "in-progress",
+        "excercises": [
+          "Quadruped Knee-to-Elbow L",
+          "Overhead Squats",
+          "Quadruped Knee-to-Elbow R",
+          "Crossing Punches",
+          "Mountain Climbers"
+        ]
+      }, {
+        "name": "Day 5",
+        "duration": 45,
+        "excercises": [
+          "Jog In Place",
+          "Wall Lateral Pull-Downs",
+          "SL Balance L",
+          "Arm Circles Backward",
+          "SL Balance R"
+        ]
+      }
+    ]
   }
 ]
