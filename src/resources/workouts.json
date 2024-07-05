@@ -1,0 +1,368 @@
+[
+  {
+    "exercise": "Arm Circles Backward",
+    "targetedBodyPart": "Shoulder",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Beetle",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Bicycle Crunches",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Bridge",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Cat-Cow",
+    "targetedBodyPart": "Upper Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Child's Pose",
+    "targetedBodyPart": "Upper Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Clap Jacks",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Crab Bridge",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "Crossing Punches",
+    "targetedBodyPart": "Upper Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "High Knees",
+    "targetedBodyPart": "Glutes",
+    "useAsWarmup": true,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "High Plank Jacks",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "High Plank Knee Crosses",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "High Plank Knee Drops",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "High Plank Knee-to-Elbow",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "High Plank Leg Lifts",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Hip Abduction L",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Hip Abduction R",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Hip Openers",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Inchworms",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Jog In Place",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Jumping Jacks",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Knee Tuck Crunches",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "Knee Up Downs",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Leg Raises",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Low Plank",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Low Plank Arm Reaches",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Low Plank Knee Drops",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Low Plank Twists",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Low Side Plank L",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Low Side Plank R",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Lunge & Twist L",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Lunge & Twist R",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Modified Low Side Plank L",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Modified Low Side Plank R",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Mountain Climbers",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Overhead Squats",
+    "targetedBodyPart": "Glutes",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Plank-to-Down Dog",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Prone X",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Quadruped Knee-to-Elbow L",
+    "targetedBodyPart": "Quads",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Quadruped Knee-to-Elbow R",
+    "targetedBodyPart": "Quads",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Quadruped Limb Raises",
+    "targetedBodyPart": "Quads",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Quick Feet",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "Reverse Crunches",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "Rockstars",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Russian Twist Advanced",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "Russian Twist Basic",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 3
+  },
+  {
+    "exercise": "Scissor Kicks",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Single-Leg V-ups",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Sit-ups",
+    "targetedBodyPart": "Abs",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "SL Balance L",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "SL Balance R",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 1
+  },
+  {
+    "exercise": "SL Reach (Foot) L",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "SL Reach (Foot) R",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "SL Reach (Shin) L",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "SL Reach (Shin) R",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Star Toe Touches",
+    "targetedBodyPart": "Hips",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  },
+  {
+    "exercise": "Superman",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Superman Pull",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Table Top Crunches",
+    "targetedBodyPart": "Lower Back",
+    "useAsWarmup": false,
+    "difficultyLevel": 5
+  },
+  {
+    "exercise": "Up Downs",
+    "targetedBodyPart": "Body",
+    "useAsWarmup": false,
+    "difficultyLevel": 4
+  },
+  {
+    "exercise": "Wall Lateral Pull-Downs",
+    "targetedBodyPart": "Upper Back",
+    "useAsWarmup": true,
+    "difficultyLevel": 2
+  }
+]
